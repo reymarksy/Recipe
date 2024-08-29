@@ -1,0 +1,83 @@
+
+/*         NINONG REY            */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #CBE2B5;
+}
+.uluhan {
+  padding: 10px 20px;
+  padding-left: 5%;
+  background-color: #1A120B;
+  color: whitesmoke;
+  font-size: small;
+  font-family: 'Franklin Gothic Medium';
+}
+
+/*         GINATAANG BIHON            */
+.ginataan {
+  width: 5%;
+  height: auto;
+  padding: 5%;
+  padding-left: 10%;
+  padding-right: 0%;
+  margin-left: 0%;
+  float: left;
+  display: flex;
+ 
+  
+}
+
+.keso {
+  
+  margin-left: 2px; 
+  margin-right: 15%;
+  padding-left: 50%;
+  margin-top: 3%;
+  font-family: cursive;
+  
+}
+.kasangkapan{
+  margin-left: 2px; 
+  margin-left: 15%;
+  padding-left: 30%;
+  padding-right: 3%;
+  margin-top: 2%;
+  font-family: cursive;
+}
+
+
+/*         ---BAKA---            */
+.SUNOG_NA_BAKA {
+  width: 5%;
+  height: auto;
+  padding: 5%;
+  padding-right: 35%;
+  padding-left: 10%;
+  margin-right: 0%;
+  float: right;
+  display: flex;
+ 
+  
+}
+
+.KALABAW {
+  
+  margin-right: 2px; 
+  margin-left: 15%;
+  padding-right: 50%;
+  margin-top: 3%;
+  font-family: cursive;
+  
+  
+}
+.kasangkapan_sa_BAKA{
+  margin-right: 2px; 
+  margin-left: 5%;
+  padding-right: 30%;
+  padding-left: 5%;
+  padding-bottom: 3%;
+  margin-top: 2%;
+  font-family: cursive;
+}
